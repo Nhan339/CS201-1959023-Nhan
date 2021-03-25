@@ -1,0 +1,36 @@
+h1, h2, h3, nav li {
+  font-family: 'Kiwi Maru', serif;
+
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.display-2 {
+  color: red;
+}
+.title{
+  text-align: center;
+  margin-top: 1rem;
+  color: blue;
+}
+.threeWatch{
+  margin-top: 1rem;
+}
+
+.blueCard{
+  background-color: aqua;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.pBlue{
+  padding-bottom: 10px;
+}
+
+.foot {
+  list-style: none;
+}
+
+
